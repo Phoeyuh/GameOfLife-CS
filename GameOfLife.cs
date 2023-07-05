@@ -228,7 +228,6 @@ namespace GameOfLifeV2
                     if (mat[i,x] == 2)
                         mat[i, x] = 0;
         }
-
         // Copy mat1 to mat2
         static void CopiaMatrice(int[,] mat1, int[,] mat2)
         {
