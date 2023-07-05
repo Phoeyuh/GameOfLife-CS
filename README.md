@@ -18,4 +18,5 @@ Each block is taken individually, and the state of the surrounding blocks is che
 The output of the matrix may cause some errors in the visualization of the ASCII blocks characters; if that happens, you can edit the function "StampaMatrice" with different characters.
 
 
+<img src="https://blog.datawrapper.de/wp-content/uploads/2021/06/game-of-life-loop-cropped.gif" alt="Game of Life">
 
