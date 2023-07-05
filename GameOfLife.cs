@@ -78,7 +78,6 @@ namespace GameOfLifeV2
                     Console.ResetColor(); break;
                 default:
                     Console.ForegroundColor = ConsoleColor.Yellow; break;
-
             }
 
             //line 1
