@@ -111,7 +111,6 @@ namespace GameOfLifeV2
             Console.ReadKey();
             Console.Clear();
         }
-
         // Set all matrix values to 0 and one random value to 2 (cursor)
         static void InizializzaMatrice(int[,] mat)
         {
