@@ -9,7 +9,6 @@ namespace GameOfLifeV2
 {
     class Program
     {
-
         static bool ProssimoIns = true;     // Variable that manages block input
         static bool Prosegui = true;       // Variable that manages game evolution
 
