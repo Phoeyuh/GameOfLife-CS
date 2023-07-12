@@ -17,7 +17,8 @@ Each block is taken individually, and the state of the surrounding blocks is che
 
 <hr>
 
-The output of the matrix may cause some errors in the visualization of the ASCII blocks characters; if that happens, you can edit the function "StampaMatrice" with different characters.
+The output of the matrix may cause some errors in the visualization of the ASCII blocks characters; if that happens, you can edit the function "StampaMatrice" with different characters.<hr>
 
+### [SHOWCASE]
 <img src="https://github.com/Phoeyuh/GameOfLife-CS/assets/113254295/b17d5761-ee89-46bf-84ea-18c9dcd5dc3a" alt="Game of Life">
 
